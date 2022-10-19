@@ -1,0 +1,46 @@
+body{
+    background-image: url(hatterem1.jpg);
+    color: aliceblue;
+}
+h1{
+    text-align: center;
+}
+#container{
+    width: 80%;
+    max-width: 800px;
+    margin:auto;
+    background-color: rgb(47, 79, 78)
+    padding;
+
+
+}
+
+
+
+
+.lepke1 img {
+    float: right;
+    
+  }
+  .lepke2 img {
+    float: left;
+    
+  }
+  .lepke3 img {
+    float: right;
+ 
+
+  }
+  .heble img {
+ clear: both;
+  }
+  .lepke2{
+    border-top: 1px solid white;
+  }
+  .lepke3{
+    border-top: 2px solid white;
+  }
+  .torol{
+    clear: both;
+    }
+  
